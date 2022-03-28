@@ -12,7 +12,6 @@
   <img align="center" alt="Pedro-MySQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Pedro-PostGree" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="Pedro-AWS" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="right" alt="GregoryHouse" height="80" width="90" src="https://giphy.com/gifs/pictures-life-developer-1KrM2hhDN3dgk">
 </div>
  
   
