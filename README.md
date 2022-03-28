@@ -1,8 +1,8 @@
 ## Olá! Bem vindo ao meu GitHub, estou no mercado de tecnologia há 5 anos e atualmente estou estudando ciência de dados
 <div align="center">
   <a href="https://github.com/PedroAquin0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAquin0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAquin0&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAquin0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAquin0&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
